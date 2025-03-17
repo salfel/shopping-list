@@ -2,6 +2,9 @@
 birnen
 bier
 leberkäse
+ - normal
+ - käse
+ - chili
 chips
 wurst 
 käse 
