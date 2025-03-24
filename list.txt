@@ -12,4 +12,4 @@ cola
 fanta
 red bull
 salat
-kekse
+kekse 2x
